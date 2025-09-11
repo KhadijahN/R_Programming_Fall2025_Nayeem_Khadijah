@@ -11,3 +11,6 @@ Since this dataset was fabricated, the results cannot be trusted as a reflection
 Collecting or Validating Real Poll Data
 In a true analysis, reliable poll data should come from established survey organizations that disclose their sampling methods, question wording, and response rates. Collecting data would involve randomized sampling of likely voters and careful weighting for demographics. To validate, one could cross-check results with multiple independent polling organizations and use poll aggregators like FiveThirtyEight or Pew Research Center. These practices ensure that conclusions are based on real, representative, and reproducible data rather than arbitrary numbers.
 
+The bar chart in my blog shows each candidate’s support levels in the ABC and CBS polls, highlighting the differences across the two sources 
+you can check out my blog through this link! enojoy!:
+https://rprogrammingkhadijah.blogspot.com/2025/09/poll-analysis-with-r.html
