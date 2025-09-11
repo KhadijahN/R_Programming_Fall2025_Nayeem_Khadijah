@@ -29,9 +29,6 @@ ggplot(df_polls, aes(x = Name)) +
   geom_bar(aes(y = CBS_poll, fill = "CBS"), stat = "identity", position = "dodge") +
   labs(title = "Polling Comparison: ABC vs CBS", y = "Poll Percentage", fill = "Poll Source") +
   theme_minimal()
-The bar chart in my blog shows each candidate’s support levels in the ABC and CBS polls, highlighting the differences across the two sources 
-you can check out my blog through this link! enojoy!:
-https://rprogrammingkhadijah.blogspot.com/2025/09/poll-analysis-with-r.html
 
 
 
