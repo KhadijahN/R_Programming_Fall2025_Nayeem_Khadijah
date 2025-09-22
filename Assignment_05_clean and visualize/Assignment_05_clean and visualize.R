@@ -1,4 +1,4 @@
- 1. Creating Matrices
+1. Creating Matrices
 
 # Create matrices
 A <- matrix(1:100,  nrow = 10)
